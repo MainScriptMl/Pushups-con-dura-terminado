@@ -5,7 +5,7 @@ local scripts = {
 
 "https://raw.githubusercontent.com/CTXxALEJANDROxX/Roca-10m/refs/heads/main/Roca%2010m",
  
-"https://raw.githubusercontent.com/CTXxALEJANDROxX/Auto-fuerza-OP-2.0/refs/heads/main/Auto%20fuerza",
+"https://raw.githubusercontent.com/CTXxALEJANDROxX/Auto-fuerza-normal/refs/heads/main/Fuerza%20normal",
     }
 
 for _, url in ipairs(scripts) do
